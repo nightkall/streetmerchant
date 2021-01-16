@@ -211,7 +211,7 @@ export const PCComponentes: Store = {
 		},
 		{
 			brand: 'msi',
-			model: 'ventus 2x',
+			model: 'ventus 2x oc',
 			series: '3070',
 			url:
 				'https://www.pccomponentes.com/msi-geforce-rtx-3070-ventus-2x-oc-8gb-gddr6'
@@ -267,7 +267,7 @@ export const PCComponentes: Store = {
 		},
 		{
 			brand: 'pny',
-			model: 'dual fan',
+			model: 'dual',
 			series: '3070',
 			url:
 				'https://www.pccomponentes.com/pny-geforce-rtx-3070-dual-fan-8gb-gddr6'
@@ -313,6 +313,230 @@ export const PCComponentes: Store = {
 			series: '3070',
 			url:
 				'https://www.pccomponentes.com/asus-rog-strix-gaming-geforce-rtx-3070-8gb-gddr6'
+		},
+		{
+			brand: 'evga',
+			model: 'xc3',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/evga-geforce-rtx-3060-ti-xc-8gb-gddr6'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/gigabyte-geforce-rtx-3060-ti-gaming-oc-8gb-gddr6'
+		},
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/msi-rtx-3060-ti-gaming-x-trio-8gb-gddr6'
+		},
+		{
+			brand: 'zotac',
+			model: 'twin edge oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/zotac-geforce-rtx-3060ti-d6-twin-edge-oc-8gb-gddr6'
+		},	
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/asus-tuf-geforce-rtx-3060ti-o8g-gaming-8gb-gddr6'
+		},	
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/asus-tuf-geforce-rtx-3060ti-gaming-8gb-gddr6'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'eagle oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/gigabyte-geforce-rtx-3060-ti-eagle-oc-8gb-gddr6'
+		},	
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/asus-geforce-rtx-3060ti-dual-o8g-8gb-gddr6'
+		},		
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8gb-gddr6'
+		},	
+		{
+			brand: 'evga',
+			model: 'ftw3 ultra',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/evga-geforce-rtx-3060-ti-ftw3-ultra-8gb-gddr6'
+		},	
+		{
+			brand: 'gigabyte',
+			model: 'eagle',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/gigabyte-geforce-rtx-3060-ti-eagle-8gb-gddr6'
+		},	
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/asus-rog-strix-geforce-rtx-3060ti-o8g-gaming-8gb-gddr6'
+		},
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/asus-rog-strix-geforce-rtx-3060ti-gaming-8gb-gddr6'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/gigabyte-aorus-geforce-rtx-3060-ti-master-8gb-gddr6'
+		},	
+		{
+			brand: 'msi',
+			model: 'ventus 2x oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/msi-geforce-rtx-3060ti-ventus-2x-ocv1-8gb-gddr6'
+		},	
+		{
+			brand: 'msi',
+			model: 'ventus 2x oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/msi-rtx-3060-ti-ventus-2x-oc-8gb-gddr6'
+		},
+		{
+			brand: 'msi',
+			model: 'ventus 3x oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/msi-rtx-3060-ti-ventus-3x-oc-8gb-gddr6'
+		},
+		{
+			brand: 'asus',
+			model: 'dual',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/asus-geforce-rtx-3060ti-dual-8gb-gddr6'
+		},	
+		{
+			brand: 'zotac',
+			model: 'twin edge',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/zotac-geforce-rtx-3060-ti-d6-twin-edge-8gb-gddr6'
+		},
+		{
+			brand: 'msi',
+			model: 'ventus 2x oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/msi-rtx-3060-ti-ventus-2x-oc-8gb-gddr6-reacondicionado'
+		},
+		{
+			brand: 'zotac',
+			model: 'twin edge oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/zotac-geforce-rtx-3060ti-d6-twin-edge-oc-8gb-gddr6-reacondicionado'
+		},
+		{
+			brand: 'evga',
+			model: 'xc3',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/evga-geforce-rtx-3060-ti-xc-8gb-gddr6-reacondicionado'
+		},
+		{
+			brand: 'pny',
+			model: 'xlr8 revel',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/pny-geforce-rtx-3060ti-xlr8-gaming-revel-epic-x-rgb-edition-8gb-gddr6'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'aorus master',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/gigabyte-aorus-geforce-rtx-3060-ti-master-8gb-gddr6-reacondicionado'
+		},
+		{
+			brand: 'asus',
+			model: 'tuf',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/asus-tuf-geforce-rtx-3060ti-o8g-gaming-8gb-gddr6-reacondicionado'
+		},		
+		{
+			brand: 'gigabyte',
+			model: 'eagle',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/gigabyte-geforce-rtx-3060-ti-eagle-oc-8gb-gddr6-reacondicionado'
+		},
+		{
+			brand: 'evga',
+			model: 'ftw3 ultra',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/evga-geforce-rtx-3060-ti-ftw3-ultra-8gb-gddr6-reacondicionado'
+		},	
+		{
+			brand: 'msi',
+			model: 'gaming x trio',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/msi-rtx-3060-ti-gaming-x-trio-8gb-gddr6-reacondicionado'
+		},
+		{
+			brand: 'gigabyte',
+			model: 'gaming oc',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/gigabyte-geforce-rtx-3060-ti-gaming-oc-pro-8gb-gddr6-reacondicionado'
+		},	
+		{
+			brand: 'zotac',
+			model: 'twin edge',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/zotac-geforce-rtx-3060-ti-d6-twin-edge-8gb-gddr6-reacondicionado'
+		},
+		{
+			brand: 'pny',
+			model: 'xlr8 revel',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/pny-geforce-rtx-3060ti-xlr8-gaming-revel-epic-x-rgb-edition-8gb-gddr6-reacondicionado'
+		},
+		{
+			brand: 'asus',
+			model: 'strix',
+			series: '3060ti',
+			url:
+				'https://www.pccomponentes.com/asus-rog-strix-geforce-rtx-3060ti-o8g-gaming-8gb-gddr6-reacondicionado'
 		}
 	],
 	name: 'pccomponentes'
